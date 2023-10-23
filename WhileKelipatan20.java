@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * ForKelipatan18
+ * ForKelipatan20
  */
 public class WhileKelipatan20 {
 
