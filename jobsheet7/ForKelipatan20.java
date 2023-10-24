@@ -14,7 +14,6 @@ public class ForKelipatan20 {
             if (i % kelipatan == 0) {
                 jumlah += i;
                 counter++;
-
             }
         }
         
