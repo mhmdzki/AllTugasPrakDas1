@@ -26,13 +26,12 @@ public class Modifikasi5Bioskop20 {
 
         for (String[] barisPenonton : penonton) {
             System.out.println("Panjang baris: " + barisPenonton.length);
-        
-        System.out.println("Penonton pada baris ke3-: ");
+        }
 
         for (int i = 0; i < penonton.length; i++) {
-            System.out.println("Penonton pada baris ke-" + (i+1) + "i " + String.join(", ", penonton[i]));
+            System.out.println("Penonton pada baris ke-" + (i+1) + ", " + String.join(", ", penonton[i]));
         
         }
-        }
+        
     }
 }
