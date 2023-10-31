@@ -26,7 +26,7 @@ public class Modifikasi4Bioskop20 {
 
         for (String[] barisPenonton : penonton) {
             System.out.println("Panjang baris: " + barisPenonton.length);
-        
+        }
         System.out.println("Penonton pada baris ke3-: ");
 
         for (String i : penonton[2]) {
@@ -34,6 +34,6 @@ public class Modifikasi4Bioskop20 {
             
         
         }
-        }
+        
     }
 }
